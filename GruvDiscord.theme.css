@@ -13,8 +13,7 @@
 /* Variables */
 
 .theme-dark {
-    --background-primary: #010409;
-    /*--background-primary: #383534;*/
+    --background-primary: #383534;
     --background-primary-alt: #383534;
     --background-secondary: #383534;
     --background-secondary-alt: #383534;
