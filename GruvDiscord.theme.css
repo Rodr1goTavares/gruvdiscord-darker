@@ -14,10 +14,10 @@
 
 .theme-dark {
     --background-primary: #383534;
-    --background-primary-alt: #383534;
-    --background-secondary: #383534;
-    --background-secondary-alt: #383534;
-    --background-tertiary: #383534;
+    --background-primary-alt: #32302F;
+    --background-secondary: #32302F;
+    --background-secondary-alt: #32302F;
+    --background-tertiary: #32302F;
     --background-modifier-active: #373432;
     --background-modifier-selected: #373432;
     --background-modifier-accent: #3C3836;
